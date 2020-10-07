@@ -2,8 +2,8 @@
   "title": "Apurva Digital Style Guide",
   "url": "https://styleguide.apurvadigital.com",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/logo-light.png",
+    "dark": "/logo-dark.png"
   },
   "github": "Hrdtr/apurvadigital-styleguide",
   "twitter": "@apurvadigital"

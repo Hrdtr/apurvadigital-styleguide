@@ -5,6 +5,9 @@ position: 3
 category: Foundation
 ---
 
+Apurva Digital have two type of colors, Primary and Seconday.
+Primary is some colors which is have bigger portion any type of style and design of all Apurva's Product. The maximum ratio for mixing primary and secondary color is **75 : 22**. Beside that, using primary color without secondary color was allowed.
+
 ## Primary
 
 <div class="flex flex-wrap -mx-3 overflow-hidden sm:-mx-3 md:-mx-3 lg:-mx-3 xl:-mx-3">
