@@ -5,7 +5,7 @@ position: 6
 category: Visual Language
 ---
 
-All illustration below, can be used for design.
+<alert>All illustration below, can be used for design.</alert>
 
 <br />
 
