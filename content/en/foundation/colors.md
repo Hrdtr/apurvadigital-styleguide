@@ -6,7 +6,7 @@ category: Foundation
 ---
 
 Apurva Digital have two type of colors, Primary and Seconday.
-Primary is some colors which is have bigger portion any type of style and design of all Apurva's Product. The maximum ratio for mixing primary and secondary color is **75 : 22**. Beside that, using primary color without secondary color was allowed.
+Primary is some colors which is have bigger portion any type of style and design of all Apurva's Product. The maximum ratio for mixing primary and secondary color is **75 : 25**. Beside that, using primary color without secondary color was allowed.
 
 ## Primary
 
@@ -17,23 +17,23 @@ Primary is some colors which is have bigger portion any type of style and design
         <div class="flex flex-row items-center">
             <div class="w-16 h-16 mr-4 rounded" style="background-color: #4D4DFF;"></div>
             <div class="flex-col">
-                <div class="font-bold mb-1">Blue</div>
-                <div class="text-sm"><span class="text-xs rounded dark:bg-gray-800 bg-gray-200 px-1 mr-1">HEX:</span> #4D4DFF</div>
-                <div class="text-sm"><span class="text-xs rounded dark:bg-gray-800 bg-gray-200 px-1 mr-1">RGB:</span> 77, 77, 255</div>
+                <div class="font-bold mb-1">Blue Ribbon</div>
+                <div class="text-sm"><span class="text-xs rounded dark:bg-gray-800 bg-gray-200 px-1 mr-1">HEX:</span> #4B4BE5</div>
+                <div class="text-sm"><span class="text-xs rounded dark:bg-gray-800 bg-gray-200 px-1 mr-1">RGB:</span> 75, 75, 229</div>
             </div>
         </div>
         <div class="palette">
             <ul>
-                <li style="background-color: rgb(246, 246, 255); color: rgb(51, 51, 51);"><span>50</span> <span class="color-code float-right">#F6F6FF</span></li>
-                <li style="background-color: rgb(237, 237, 255); color: rgb(51, 51, 51);"><span>100</span> <span class="color-code float-right">#EDEDFF</span></li>
-                <li style="background-color: rgb(211, 211, 255); color: rgb(51, 51, 51);"><span>200</span> <span class="color-code float-right">#D3D3FF</span></li>
-                <li style="background-color: rgb(184, 184, 255); color: rgb(51, 51, 51);"><span>300</span> <span class="color-code float-right">#B8B8FF</span></li>
-                <li style="background-color: rgb(130, 130, 255); color: rgb(51, 51, 51);"><span>400</span> <span class="color-code float-right">#8282FF</span></li>
-                <li style="background-color: rgb(77, 77, 255); color: rgb(255, 255, 255);"><span>500</span> <span class="color-code float-right">#4D4DFF</span></li>
-                <li style="background-color: rgb(69, 69, 230); color: rgb(255, 255, 255);"><span>600</span> <span class="color-code float-right">#4545E6</span></li>
-                <li style="background-color: rgb(46, 46, 153); color: rgb(255, 255, 255);"><span>700</span> <span class="color-code float-right">#2E2E99</span></li>
-                <li style="background-color: rgb(35, 35, 115); color: rgb(255, 255, 255);"><span>800</span> <span class="color-code float-right">#232373</span></li>
-                <li style="background-color: rgb(23, 23, 77); color: rgb(255, 255, 255);"><span>900</span> <span class="color-code float-right">#17174D</span></li>
+                <li style="background-color: rgb(246, 246, 254); color: rgb(51, 51, 51);"><span>50</span> <span class="color-code float-right">#F6F6FE</span></li>
+                <li style="background-color: rgb(237, 237, 252); color: rgb(51, 51, 51);"><span>100</span> <span class="color-code float-right">#EDEDFC</span></li>
+                <li style="background-color: rgb(210, 210, 249); color: rgb(51, 51, 51);"><span>200</span> <span class="color-code float-right">#D2D2F9</span></li>
+                <li style="background-color: rgb(183, 183, 245); color: rgb(51, 51, 51);"><span>300</span> <span class="color-code float-right">#B7B7F5</span></li>
+                <li style="background-color: rgb(129, 129, 237); color: rgb(51, 51, 51);"><span>400</span> <span class="color-code float-right">#8181ED</span></li>
+                <li style="background-color: rgb(75, 75, 229); color: rgb(255, 255, 255);"><span>500</span> <span class="color-code float-right">#4B4BE5</span></li>
+                <li style="background-color: rgb(68, 68, 206); color: rgb(255, 255, 255);"><span>600</span> <span class="color-code float-right">#4444CE</span></li>
+                <li style="background-color: rgb(45, 45, 137); color: rgb(255, 255, 255);"><span>700</span> <span class="color-code float-right">#2D2D89</span></li>
+                <li style="background-color: rgb(34, 34, 103); color: rgb(255, 255, 255);"><span>800</span> <span class="color-code float-right">#222267</span></li>
+                <li style="background-color: rgb(23, 23, 69); color: rgb(255, 255, 255);"><span>900</span> <span class="color-code float-right">#171745</span></li>
             </ul>
         </div>
     </div>
@@ -44,7 +44,7 @@ Primary is some colors which is have bigger portion any type of style and design
         <div class="flex flex-row items-center mt-8 sm:mt-0">
             <div class="w-16 h-16 mr-4 rounded" style="background-color: #FDD54F;"></div>
             <div class="flex-col">
-                <div class="font-bold mb-1">Dandelion</div>
+                <div class="font-bold mb-1">Mustard</div>
                 <div class="text-sm"><span class="text-xs rounded dark:bg-gray-800 bg-gray-200 px-1 mr-1">HEX:</span> #FDD54F</div>
                 <div class="text-sm"><span class="text-xs rounded dark:bg-gray-800 bg-gray-200 px-1 mr-1">RGB:</span> 253, 213, 79</div>
             </div>
@@ -183,7 +183,7 @@ Primary is some colors which is have bigger portion any type of style and design
 
 ## Tailwind Config
 <code-group>
-  <code-block label="Primary" active>
+  <code-block label="Blue Ribbon" active>
 
   ```javascript
   # tailwind.config.js
@@ -192,17 +192,17 @@ Primary is some colors which is have bigger portion any type of style and design
     theme: {
       extend: {
         colors: {
-          'primary': {
-            50: '#F6F6FF',
-            100: '#EDEDFF',
-            200: '#D3D3FF',
-            300: '#B8B8FF',
-            400: '#8282FF',
-            500: '#4D4DFF',
-            600: '#4545E6',
-            700: '#2E2E99',
-            800: '#232373',
-            900: '#17174D'
+          'blue-ribbon': {
+            50: '#F6F6FE',
+            100: '#EDEDFC',
+            200: '#D2D2F9',
+            300: '#B7B7F5',
+            400: '#8181ED',
+            500: '#4B4BE5',
+            600: '#4444CE',
+            700: '#2D2D89',
+            800: '#222267',
+            900: '#171745'
           }
         }
       }
@@ -211,7 +211,7 @@ Primary is some colors which is have bigger portion any type of style and design
   ```
 
   </code-block>
-  <code-block label="Primary2">
+  <code-block label="Mustard">
 
   ```javascript
   # tailwind.config.js
@@ -220,7 +220,7 @@ Primary is some colors which is have bigger portion any type of style and design
     theme: {
       extend: {
         colors: {
-          'primary2': {
+          'mustard': {
             50: '#FFFDF6',
             100: '#FFFBED',
             200: '#FFF5D3',
@@ -239,7 +239,7 @@ Primary is some colors which is have bigger portion any type of style and design
   ```
 
   </code-block>
-  <code-block label="Secondary">
+  <code-block label="Morning Glory">
 
   ```javascript
   # tailwind.config.js
@@ -248,7 +248,7 @@ Primary is some colors which is have bigger portion any type of style and design
     theme: {
       extend: {
         colors: {
-          'secondary': {
+          'morning-glory': {
             50: '#F9FDFD',
             100: '#F3FBFB',
             200: '#E0F4F5',
@@ -267,7 +267,7 @@ Primary is some colors which is have bigger portion any type of style and design
   ```
 
   </code-block>
-  <code-block label="Secondary2">
+  <code-block label="Conifer">
 
   ```javascript
   # tailwind.config.js
@@ -276,7 +276,7 @@ Primary is some colors which is have bigger portion any type of style and design
     theme: {
       extend: {
         colors: {
-          'secondary2': {
+          'conifer': {
             50: '#FAFDF6',
             100: '#F4FBED',
             200: '#E4F4D2',
@@ -295,7 +295,7 @@ Primary is some colors which is have bigger portion any type of style and design
   ```
 
   </code-block>
-  <code-block label="Secondary3">
+  <code-block label="Dull Lavender">
 
   ```javascript
   # tailwind.config.js
@@ -304,7 +304,7 @@ Primary is some colors which is have bigger portion any type of style and design
     theme: {
       extend: {
         colors: {
-          'secondary3': {
+          'dull-lavender': {
             50: '#FAF9FE',
             100: '#F5F3FC',
             200: '#E5E1F8',

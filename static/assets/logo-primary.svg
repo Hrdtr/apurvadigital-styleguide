@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 857 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-4128.66,-124.876)">
+<svg width="100%" height="100%" viewBox="0 0 849 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-4136.95,-140)">
         <g transform="matrix(1,0,0,1,4016.95,0)">
             <g transform="matrix(1,0,0,1,18.868,0)">
                 <g transform="matrix(1.48859,0,0,1.48859,-2357.42,-480.38)">
                     <text x="1749.73px" y="473.664px" style="font-family:'Poppins-Medium', 'Poppins';font-weight:500;font-size:66.667px;fill:rgb(45,55,72);">Apurva Digital</text>
                 </g>
-                <g transform="matrix(0.232142,0,0,0.232142,34.7651,59.8414)">
-                    <g transform="matrix(279.925,0,0,-279.925,530.102,699.881)">
-                        <path d="M0,0.5L0,-0.5L1,0.5L0,0.5Z" style="fill:rgb(46,46,153);fill-rule:nonzero;"/>
+                <g transform="matrix(0.549602,0,0,0.549602,-135.285,-50.1623)">
+                    <g transform="matrix(1,0,0,1,-5357.15,-2.04435)">
+                        <path d="M5886.79,350.394C5889.09,348.1 5892.54,347.414 5895.53,348.655C5898.53,349.897 5900.49,352.822 5900.49,356.066C5900.49,389.194 5900.49,453.205 5900.49,453.205L5997.62,453.205C6000.87,453.205 6003.79,455.16 6005.03,458.157C6006.28,461.155 6005.59,464.605 6003.3,466.899C5977.73,492.462 5923.75,546.444 5906.16,564.035C5904.65,565.539 5902.61,566.384 5900.49,566.384C5898.36,566.384 5896.32,565.539 5894.81,564.035C5875.06,544.28 5809.41,478.63 5789.66,458.876C5786.52,455.743 5786.52,450.664 5789.66,447.531C5807.25,429.94 5861.23,375.957 5886.79,350.394Z" style="fill:rgb(75,75,229);"/>
                     </g>
-                    <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,1090.02,-2669.64)">
-                        <path d="M2949.79,559.924L3509.64,559.924L3229.72,839.843L2949.79,559.924Z" style="fill:rgb(77,77,255);fill-rule:nonzero;"/>
+                    <g transform="matrix(1,0,0,1,-5360.49,0)">
+                        <path d="M6000.97,451.161C6004.21,451.161 6007.14,453.116 6008.38,456.113C6009.62,459.11 6008.93,462.561 6006.64,464.855C5981.07,490.417 5927.09,544.399 5909.5,561.99C5908,563.495 5905.96,564.34 5903.83,564.34L5903.83,564.34L5903.83,451.161L6000.97,451.161Z" style="fill:rgb(68,68,206);"/>
+                        <clipPath id="_clip1">
+                            <path d="M6000.97,451.161C6004.21,451.161 6007.14,453.116 6008.38,456.113C6009.62,459.11 6008.93,462.561 6006.64,464.855C5981.07,490.417 5927.09,544.399 5909.5,561.99C5908,563.495 5905.96,564.34 5903.83,564.34L5903.83,564.34L5903.83,451.161L6000.97,451.161Z"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip1)">
+                            <g>
+                                <g transform="matrix(1.8195,-0,-0,1.8195,5790.65,346)">
+                                    <use xlink:href="#_Image2" x="62.203" y="58.537" width="39px" height="62.203px" transform="matrix(1,0,0,0.987355,0,0)"/>
+                                </g>
+                                <g transform="matrix(-1,0,0,1,11807.7,0)">
+                                    <path d="M6000.97,451.161C6004.21,451.161 6007.14,453.116 6008.38,456.113C6009.62,459.11 6008.93,462.561 6006.64,464.855C5981.07,490.417 5927.09,544.399 5909.5,561.99C5908,563.495 5905.96,564.34 5903.83,564.34L5903.83,564.34L5903.83,451.161L6000.97,451.161Z" style="fill:rgb(68,68,206);"/>
+                                </g>
+                            </g>
+                        </g>
                     </g>
                 </g>
             </g>
         </g>
     </g>
+    <defs>
+        <image id="_Image2" width="39px" height="63px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAA/CAYAAABjJtHDAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACdUlEQVRogc2Za47DMAiEp1Hvsfe/ZLs/Uq8I5TFgu92RojiObb6AoWpyA/AD4Ang8TrLttWnjwdO6X4YbSTtS9/xOm7ibB0wriH6tW7JfUp3AfZQINYZOJ/Kupb9TzHPalOSnsu8pz0Ica0fwFPJixlMBGaFGM69CMq9N8KqQ2uFVYbMaktl4aNCXE0GCazbHkQ7IfSeY7OVDe+UquUjymJvDThz0geqJEQEOOs5cz5bOjREFaYFX9lv2pBVLrISsq3ORbAWRNfLf/OzhIhAtmXpkIYDbONZuLy+TOEcCWeBeftKG9jizQEXATFQjMrQB2G8A5UlAwVqhbUCGoFke5SC8xaIgDyDTB8NKvecBIrkFeRZva1xODcyL0YwS7M1Alqt8s9XNHnrL0AmDQfUAbc9gAX3abkPtxJuuq5pWXClP747peH+DRhwhfPAvgZ84PomSMrr/5i8hKhAZa+42pKe0+/Wvi62lHwF3PNc5MmPQQ64jlZltzv+EAPYw1qYBSq/2awmQzRmabg1HFDzGFD3XgvOAtNAlVo2DZ3VuagvMrwk9N6ey6C0sewDSGsvZ3UuMu5+eVmlShG2wtnZg8zYFE5DeGDbfjFYz0VglpYAjw8jHSCv1FSgwrFRKWGAgRhoyoNMWIF34K7h0ngJF4U3Ky3e2BbUmHNfAOUu3gC6zO1kayWcVm2ja2QFjgmlZWRLQkQQkZbUOOD8GDz2nAWjDbKehXHdgmO8xSqqd9a5BJeFs+oxBsIdMwOnDXhQ7fCOPacNVIBYqDLk8FwGZwF1PUVDyrACNhwD6wFmCRDWxSqcBcVAsLrMz+Citl7M81Y7OX4BmqvYBrD+Az4AAAAASUVORK5CYII="/>
+    </defs>
 </svg>
